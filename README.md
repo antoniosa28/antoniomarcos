@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Antonio Marcos
 
 
-- 👨‍💻 Estagiei durante 11 meses como desenvolvedor Fullstack .NET
 
 <div align="center">
   <a href="https://github.com/antoniosa28">
